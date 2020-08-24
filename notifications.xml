@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Debugger" shouldLog="false" />
+    <notification groupId="Material Theme Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
