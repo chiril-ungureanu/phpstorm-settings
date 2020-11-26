@@ -6,6 +6,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
