@@ -31,6 +31,7 @@
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
