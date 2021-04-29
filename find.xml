@@ -21,7 +21,7 @@
     <mask>*</mask>
     <mask>*.scss</mask>
     <mask>*.install</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
