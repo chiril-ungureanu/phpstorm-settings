@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="SeliaSyncStoreSelection" type="AUTO_DETECTED" />
+      <removed_mapping ext="ng" type="HTML" />
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
@@ -9,6 +10,11 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.editor.json" type="tsconfig" />
+      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
