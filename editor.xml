@@ -8,7 +8,6 @@
     <option name="languageBreadcrumbsMap">
       <map>
         <entry key="CSS" value="true" />
-        <entry key="PHP" value="true" />
       </map>
     </option>
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
