@@ -1,14 +1,21 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="tabsHeight" value="42" />
     <option name="accentColor" value="009688" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="7874c89:16b1d32b3ef:-8000" />
     <option name="version" value="6.4.2.1" />
+    <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>
