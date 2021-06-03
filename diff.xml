@@ -45,6 +45,7 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
         </PlaceSettings>
@@ -52,12 +53,10 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
           <option name="SHOW_INDENT_LINES" value="true" />
