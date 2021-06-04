@@ -5,7 +5,7 @@
         <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
     </remote-server>
-    <remote-server name="beta.prologis.docksal" type="docker">
+    <remote-server name="china.prologis.docksal" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
