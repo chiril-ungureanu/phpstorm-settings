@@ -17,11 +17,11 @@
     <mask>*.views_execution.inc</mask>
     <mask>*.js</mask>
     <mask>*.links.menu.yml</mask>
-    <mask>*.twig</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
     <mask>*.install</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
