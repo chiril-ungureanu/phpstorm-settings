@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,9 +20,9 @@
     <mask>*.links.menu.yml</mask>
     <mask>*.scss</mask>
     <mask>*.install</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
