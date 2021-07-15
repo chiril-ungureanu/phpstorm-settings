@@ -15,7 +15,6 @@
     <mask>*inc</mask>
     <mask>*.inc</mask>
     <mask>*.views_execution.inc</mask>
-    <mask>*.js</mask>
     <mask>*.links.menu.yml</mask>
     <mask>*.scss</mask>
     <mask>*.install</mask>
@@ -23,5 +22,6 @@
     <mask>*</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
