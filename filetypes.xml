@@ -11,11 +11,6 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <mapping pattern="tsconfig.editor.json" type="tsconfig" />
-      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
