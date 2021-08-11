@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.dev.indrivo.com" />
           <option name="userName" value="chiril.ungureanu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.edw.ro" />
+          <option name="userName" value="ungureanu.chiril@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
