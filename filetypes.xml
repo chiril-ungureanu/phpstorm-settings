@@ -4,6 +4,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="SeliaSyncStoreSelection" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
