@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-08-23T10:44:35</property>
+    <property name="created">2021-10-22T16:28:42</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-23T10:50:27</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2021-10-22T16:32:13</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -316,7 +316,7 @@
         <option name="FOREGROUND" value="e5c17c" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
