@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping pattern="*.xml.dist" type="XML" />
     </extensionMap>
   </component>
 </application>
