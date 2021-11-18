@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping pattern="init-site" type="Shell Script" />
       <mapping pattern="commit-msg" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
     </extensionMap>
