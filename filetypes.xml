@@ -13,7 +13,9 @@
       <mapping pattern="init-site" type="Shell Script" />
       <mapping pattern="pre-commit" type="Shell Script" />
       <mapping pattern="pre-push" type="Shell Script" />
+      <mapping pattern="deploy_branch" type="Shell Script" />
       <mapping pattern="commit-msg" type="Shell Script" />
+      <mapping pattern="scripts/circleci/deploy_branch" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
     </extensionMap>
   </component>
