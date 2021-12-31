@@ -26,7 +26,9 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
     <option name="SHOW_DIFF_ON_DOUBLE_CLICK" value="true" />
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>
