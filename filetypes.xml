@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="SeliaSyncStoreSelection" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
@@ -18,6 +17,7 @@
       <mapping pattern="commit-msg" type="Shell Script" />
       <mapping pattern="scripts/circleci/deploy_branch" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
