@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.64.100" id="e06a34a3-072d-4ee5-9f4a-22f6119d4a09" port="2223" nameFormat="DESCRIPTIVE" username="docker" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
