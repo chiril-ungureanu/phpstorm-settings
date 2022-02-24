@@ -34,8 +34,8 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.install</mask>
-    <mask>*.php</mask>
     <mask>*routing.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
