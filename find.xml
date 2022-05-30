@@ -30,8 +30,8 @@
     <mask>*.yml</mask>
     <mask>*libraries.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.module</mask>
     <mask>*.php</mask>
     <mask>*.install</mask>
+    <mask>*.module</mask>
   </component>
 </application>
