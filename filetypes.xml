@@ -19,6 +19,7 @@
       <mapping pattern="commit-msg" type="Shell Script" />
       <mapping pattern="scripts/circleci/deploy_branch" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
     </extensionMap>
   </component>
