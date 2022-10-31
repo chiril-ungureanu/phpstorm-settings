@@ -3,6 +3,7 @@
     <option name="customScope" value="Recently Changed Files" />
     <option name="defaultScopeName" value="Recently Changed Files" />
     <option name="SEARCH_SCOPE" value="Recently Changed Files" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*php</mask>
@@ -27,11 +28,11 @@
     <mask>*.inc</mask>
     <mask>*routing.yml</mask>
     <mask>*libraries.yml</mask>
-    <mask>*.twig</mask>
     <mask>*.install</mask>
     <mask>*.module</mask>
     <mask>*info.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
